@@ -1,1 +1,1 @@
-conflict resolved
+feature 2 created
